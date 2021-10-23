@@ -1,0 +1,16 @@
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\bin\Debug\net5.0\OperatorsExercise.exe
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\bin\Debug\net5.0\OperatorsExercise.deps.json
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\bin\Debug\net5.0\OperatorsExercise.runtimeconfig.json
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\bin\Debug\net5.0\OperatorsExercise.runtimeconfig.dev.json
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\bin\Debug\net5.0\OperatorsExercise.dll
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\bin\Debug\net5.0\ref\OperatorsExercise.dll
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\bin\Debug\net5.0\OperatorsExercise.pdb
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.csproj.AssemblyReference.cache
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.AssemblyInfoInputs.cache
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.AssemblyInfo.cs
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.csproj.CoreCompileInputs.cache
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.dll
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\obj\Debug\net5.0\ref\OperatorsExercise.dll
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.pdb
+C:\Users\amori\repos\OperatorsExercise\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.genruntimeconfig.cache
