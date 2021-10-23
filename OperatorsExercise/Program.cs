@@ -16,6 +16,19 @@ namespace OperatorsExercise
             {
                 Console.WriteLine($"{a}/{b} is {quotient} remainder {remainder}");
             }
+
+            Console.WriteLine("What is the radius of your circle?");
+            var radius = double.Parse(Console.ReadLine());
+            Console.WriteLine($"The area of a circle with radius {radius} " +
+                $"is: {AreaOfCircle(radius)}"); 
+
+
+        }
+        public static double AreaOfCircle(double radius)
+        {
+          
+            var pi = Math.PI * Math.Pow(radius,2);
+            return Math.Round(pi,2);
         }
     }
 }
